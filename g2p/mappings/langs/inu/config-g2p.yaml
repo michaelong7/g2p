@@ -1,0 +1,11 @@
+<<: &shared
+  language_name: Inuttitut
+mappings:
+  - display_name: Inuttitut to IPA
+    in_lang: inu
+    out_lang: inu-ipa
+    rule_ordering: apply-longest-first
+    type: mapping 
+    authors:
+      - Michael Ong
+    rules_path: inu_to_ipa.csv

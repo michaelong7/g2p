@@ -36,3 +36,6 @@ docs/_build/
 # mkdocs build
 site
 g2p/_version.py
+
+test_ali_wg2p
+test_ali_wg2p_full_audio
